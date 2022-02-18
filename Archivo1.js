@@ -1,3 +1,1 @@
-console.log("Hola Pablo");
-
-console.log("archivo con moficicaciones");
+console.log("Hola Tomas");
